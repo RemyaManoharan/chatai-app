@@ -13,10 +13,10 @@ function App() {
 
    return (
       <div className="p-4">
-         <p className="font-bold text-3xl">{message}</p>
-         <Button className="mt-4">Hello World</Button>
-      </div>
-   );
+   <p className="font-bold text-3xl">{message}</p>
+         <Button className="mt-4">Hello World!  </Button>
+            </div>
+   )
 }
 
 export default App;
